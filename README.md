@@ -11,14 +11,10 @@ about turning data into meaningful insights and actionable business decisions.
 - 📈 Experienced in KPI reporting, data cleaning, visualisation and dashboard development
 - 💡 Enjoy transforming complex data into clear business insights
 - 📚 Committed to continuous learning and developing new analytical skills
-
 ## 🛠️ Skills & Tools
-
 Excel | SQL | Power BI | Tableau | Looker Studio
+
 
 ## 📊 Featured Projects
 ### 🏦 Retail Banking Analysis
-Analysed banking data to explore customer behaviour, financial trends,
-and key performance indicators.
-
-**Tools:** SQL | Power BI | Data Analysis
+Connect with me:
